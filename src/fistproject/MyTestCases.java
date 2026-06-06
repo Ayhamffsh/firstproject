@@ -40,7 +40,7 @@ public class MyTestCases {
 			Remove1.click();
 			
 			
-			
+		//aaaaaa	
 		}
 		// اضافة العناصر دفعة وحدة باستخدام الفوووور 
 		@Test(priority = 1,enabled =  false) 
